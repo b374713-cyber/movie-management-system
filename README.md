@@ -1,16 +1,6 @@
 # Movie Management System
 A full-stack movie rental and management platform with web application for admin and employees, and mobile application for customers.
 
-## 🎥 Demo Videos
-
-### 📱 Mobile Application (Customer)
-[![Mobile App Demo](https://drive.google.com/thumbnail?id=1ruROlyQgKwKnlICHy2G6aZbz4qGADzLA)](https://drive.google.com/file/d/1ruROlyQgKwKnlICHy2G6aZbz4qGADzLA/view?usp=drivesdk)
-
-### 💻 Web Platform (Admin & Employee)
-[![Web Platform Demo](https://drive.google.com/thumbnail?id=1t3GO8dn1_QJ5DDzcoNIeKX0cvkIMDmQt)](https://drive.google.com/file/d/1t3GO8dn1_QJ5DDzcoNIeKX0cvkIMDmQt/view?usp=drivesdk)
-
-*Click the images above to watch the demo videos on Google Drive.*
-
 ## Tech Stack
 ### Backend
 - Node.js
