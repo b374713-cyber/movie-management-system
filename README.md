@@ -1,7 +1,25 @@
-# Movie Management System
+# 🎬 Movie Management System
+
 A full-stack movie rental and management platform with web application for admin and employees, and mobile application for customers.
 
+---
+
+## 🎥 Demo Videos
+
+[![Web Platform Demo](https://drive.google.com/thumbnail?id=1XE3xNt0z96gUUUqdCXBeHhkCaqCizch9)](https://drive.google.com/file/d/1XE3xNt0z96gUUUqdCXBeHhkCaqCizch9/view?usp=drivesdk)
+
+*Click the image above to watch the Web Platform demo on Google Drive.*
+
+---
+
+[![Mobile App Demo](https://drive.google.com/thumbnail?id=1qO9F2AsTK7qzZZJPok0cb4-nhObJhAhc)](https://drive.google.com/file/d/1qO9F2AsTK7qzZZJPok0cb4-nhObJhAhc/view?usp=drivesdk)
+
+*Click the image above to watch the Mobile App demo on Google Drive.*
+
+---
+
 ## Tech Stack
+
 ### Backend
 - Node.js
 - Express.js
@@ -108,6 +126,7 @@ A full-stack movie rental and management platform with web application for admin
 - Upgrade to premium membership
 - Receive push notifications
 
+---
 
 ## Conclusion
 
@@ -119,6 +138,3 @@ in store. Real time notifications keep customers informed about reservation remi
 confirmations and pickup availability. The system also includes comprehensive reporting with PDF 
 invoices and analytics dashboards. With professional user interfaces across both web and mobile platforms,
 Movie DB is scalable, maintainable and ready for production deployment.
-
-
-
