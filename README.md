@@ -8,13 +8,13 @@ A full-stack movie rental and management platform with web application for admin
 
 [![Web Platform Demo](https://drive.google.com/thumbnail?id=1XE3xNt0z96gUUUqdCXBeHhkCaqCizch9)](https://drive.google.com/file/d/1XE3xNt0z96gUUUqdCXBeHhkCaqCizch9/view?usp=drivesdk)
 
-*Click the image above to watch the Web Platform demo on Google Drive.*
+*Click the image above to watch the Web Platform demo   .*
 
 ---
 
 [![Mobile App Demo](https://drive.google.com/thumbnail?id=1qO9F2AsTK7qzZZJPok0cb4-nhObJhAhc)](https://drive.google.com/file/d/1qO9F2AsTK7qzZZJPok0cb4-nhObJhAhc/view?usp=drivesdk)
 
-*Click the image above to watch the Mobile App demo on Google Drive.*
+*Click the image above to watch the Mobile App demo .*
 
 ---
 
